@@ -1,0 +1,36 @@
+Arguments: 
+  /home/cerf/.nvm/versions/node/v14.17.0/bin/node /mnt/c/Program Files (x86)/Yarn/bin/yarn.js init
+
+PATH: 
+  /home/cerf/.local/bin:/home/cerf/.nvm/versions/node/v14.17.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files (x86)/VMware/VMware Workstation/bin/:/mnt/c/Python39/Scripts/:/mnt/c/Python39/:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/Git/cmd:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files (x86)/Yarn/bin/:/mnt/g/Android/platform-tools:/mnt/c/Program Files/PuTTY/:/mnt/c/Users/CERF/AppData/Roaming/nvm:/mnt/c/Program Files/nodejs:/mnt/c/Users/CERF/AppData/Local/Programs/Python/Python38/Scripts/:/mnt/c/Users/CERF/AppData/Local/Programs/Python/Python38/:/mnt/c/Users/CERF/AppData/Local/Microsoft/WindowsApps:/mnt/c/Development/flutter/bin:/mnt/c/Program Files/Java/jdk1.8.0_271/bin:/mnt/c/Program Files/Java/jre1.8.0_271/bin:/mnt/c/Users/CERF/AppData/Local/Yarn/bin:/mnt/c/ProgramData/chocolatey/extensions/64bit:/mnt/c/Users/CERF/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/MySQL/MySQL Server 8.0/bin:/mnt/c/Users/CERF/AppData/Local/GitHubDesktop/bin:/mnt/c/Program Files/heroku/bin:/mnt/c/xampp/php:/mnt/c/Program Files (x86)/Nmap:/mnt/c/Program Files/MongoDB/Server/4.4/bin:/mnt/c/Program Files/PostgreSQL/13/bin:/mnt/c/ngrok:/mnt/c/Program Files/OpenSSL-Win64/bin:/mnt/c/Users/CERF/AppData/Local/hyper/app-3.0.2/resources/bin:/mnt/c/Users/CERF/AppData/Roaming/npm:/snap/bin
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  14.17.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/mnt/c/Program Files (x86)/Yarn/lib/cli.js:137009:13)
+      at Interface.emit (events.js:376:20)
+      at Interface._ttyWrite (readline.js:880:16)
+      at ReadStream.onkeypress (readline.js:213:10)
+      at ReadStream.emit (events.js:376:20)
+      at emitKeys (internal/readline/utils.js:345:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1149:36)
+      at ReadStream.emit (events.js:376:20)
+      at addChunk (internal/streams/readable.js:309:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
